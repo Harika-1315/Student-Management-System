@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+passlib
+PyJWT
+PyMuPDF
+pytesseract
+Pillow
+python-multipart
